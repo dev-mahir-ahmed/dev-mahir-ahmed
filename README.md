@@ -1,6 +1,6 @@
-### Hi, I'm Mahir Ahmed 👋
+### Hi , I'm Mahir Ahmed 👋
 #### Front-End Developer
-![Front-End Developer](https://scontent.fdac193-1.fna.fbcdn.net/v/t39.30808-6/702589975_122261856812304731_3104540776332367226_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=KdJpaEwjzwEQ7kNvwE5R8TC&_nc_oc=AdrZpU4UcvhH6LFNI3jy2oxz04s0CFIrxbB9F-XsxZ1DzAVQpNEoKPPrr5HtOTJFjEE&_nc_zt=23&_nc_ht=scontent.fdac193-1.fna&_nc_gid=IY2anCQ_j6Q68TrdpzARwg&_nc_ss=7b2a8&oh=00_Af4VFKJbNdYmHwIMMyImJT9-L1jdka5oDjADvZpG9FQ9qg&oe=6A14D77A)
+![Front-End Developer](https://scontent.fdac193-1.fna.fbcdn.net/v/t39.30808-6/704227995_994074859686022_7839940590620152269_n.png?stp=dst-png_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=5yworFIpU4YQ7kNvwE4VLZY&_nc_oc=AdqwCdYy9dO4F2qaDH_Zyj1F-AR7YZ3Fy5HR_Q-z3in_BnNuEbQGd8LRRoYtpaCgZm8&_nc_zt=23&_nc_ht=scontent.fdac193-1.fna&_nc_gid=kuu7GtumJG5ghTe9FX7Z-w&_nc_ss=7b2a8&oh=00_Af7mVxepOJ-6EPn1t3sToVC6RZSeUskPl1W-dl8jlKSSfw&oe=6A1504BC)
 
 I'm Mahir Ahmed, a Front-End Developer who loves building modern, responsive, and user-friendly websites. I always strive to create web experiences that are not only visually appealing but also easy and effective to use.
 
