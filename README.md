@@ -1,6 +1,6 @@
-### Hi , I'm Mahir Ahmed 👋
+### Hi , I'm Mahir Ahmed
 #### A passionate Web & Android App Developer
-![Web & Android App Developer](https://scontent.fdac193-1.fna.fbcdn.net/v/t39.30808-6/704227995_994074859686022_7839940590620152269_n.png?stp=dst-png&cstp=mx1680x640&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=VHUIjQQTecsQ7kNvwEqMklW&_nc_oc=AdqQa5pMIG4mHyNuPr27OuFTrt9lTNaScQ8XEFw8Z2WAUOig_gKBIpKOOFdajhVeWB4&_nc_zt=23&_nc_ht=scontent.fdac193-1.fna&_nc_gid=0sG6qsLGqCYK1pDTlGpFZQ&_nc_ss=7b2a8&oh=00_Af-7_z0Kyiat1HLQg34QGN4TIvzx0jSebYD5K8umh4d2Hg&oe=6A4674FC)
+![Web & Android App Developer](https://res.cloudinary.com/dpecmr1qt/image/upload/v1790358501/fb-cover-photo_ovxmdn.png)
 
 ## 🚀 About Me:
 I'm Mahir Ahmed, a Web & Android App Developer focused on building modern, responsive, and user-friendly digital solutions. I develop websites, web applications, and Android applications with a strong focus on performance, usability, clean design, and real-world problem solving.
