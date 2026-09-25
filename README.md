@@ -1,15 +1,15 @@
 ### Hi , I'm Mahir Ahmed 👋
-#### A passionate Front-End Developer
-![Front-End Developer](https://scontent.fdac193-1.fna.fbcdn.net/v/t39.30808-6/704227995_994074859686022_7839940590620152269_n.png?stp=dst-png&cstp=mx1680x640&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=VHUIjQQTecsQ7kNvwEqMklW&_nc_oc=AdqQa5pMIG4mHyNuPr27OuFTrt9lTNaScQ8XEFw8Z2WAUOig_gKBIpKOOFdajhVeWB4&_nc_zt=23&_nc_ht=scontent.fdac193-1.fna&_nc_gid=0sG6qsLGqCYK1pDTlGpFZQ&_nc_ss=7b2a8&oh=00_Af-7_z0Kyiat1HLQg34QGN4TIvzx0jSebYD5K8umh4d2Hg&oe=6A4674FC)
+#### A passionate Web & Android App Developer
+![Web & Android App Developer](https://scontent.fdac193-1.fna.fbcdn.net/v/t39.30808-6/704227995_994074859686022_7839940590620152269_n.png?stp=dst-png&cstp=mx1680x640&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=VHUIjQQTecsQ7kNvwEqMklW&_nc_oc=AdqQa5pMIG4mHyNuPr27OuFTrt9lTNaScQ8XEFw8Z2WAUOig_gKBIpKOOFdajhVeWB4&_nc_zt=23&_nc_ht=scontent.fdac193-1.fna&_nc_gid=0sG6qsLGqCYK1pDTlGpFZQ&_nc_ss=7b2a8&oh=00_Af-7_z0Kyiat1HLQg34QGN4TIvzx0jSebYD5K8umh4d2Hg&oe=6A4674FC)
 
 ## 🚀 About Me:
-I'm Mahir Ahmed, a passionate Front-End Developer who loves building modern, responsive, and user-friendly websites. I always strive to create web experiences that are not only visually appealing but also easy and effective to use.
+I'm Mahir Ahmed, a Web & Android App Developer focused on building modern, responsive, and user-friendly digital solutions. I develop websites, web applications, and Android applications with a strong focus on performance, usability, clean design, and real-world problem solving.
 
-I have strong expertise in HTML, CSS, and JavaScript, which allows me to build modern, clean, and interactive user interfaces (UI). I follow responsive design principles to develop websites that work beautifully across mobile, tablet, and desktop devices. I enjoy creating fast, modern, and visually appealing frontend experiences using React.js and Tailwind CSS. Alongside that, I also have experience working with Firebase, REST APIs, and API Integration to build dynamic and real-time web applications.
+I'm also the Founder & CEO of Maxnor IT, where I work on delivering complete digital solutions for individuals and businesses — from planning and development to deployment and ongoing support.
 
-For version control and project management, I use Git and GitHub, which help me maintain clean workflows, track code efficiently, and collaborate effectively in development environments..
+I enjoy turning ideas into practical digital products that are reliable, efficient, and easy to use. Whether it's a modern website, a web application, or an Android app, my goal is to create solutions that solve real problems and provide a smooth user experience.
 
-Learning new technologies and staying up-to-date is extremely important to me. I regularly try to improve my skills and stay aware of modern web development trends. My goal is to become a skilled Full-stack Developer and work on projects that provide effective solutions to real-life problems and create a positive impact on people's lives.
+I'm continuously learning and exploring modern technologies to improve my development skills and build better digital products. My focus is not only on writing code, but also on understanding real-world needs and transforming them into meaningful and effective digital solutions.
 
 
 ## 🌐 Connect With Me:
